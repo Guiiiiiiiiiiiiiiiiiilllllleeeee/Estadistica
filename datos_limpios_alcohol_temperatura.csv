@@ -1,0 +1,176 @@
+"";"Pais";"Codigo";"Temperatura";"Alcohol"
+"1";"Afghanistan";"AFG";12,955677;0,016
+"2";"Albania";"ALB";13,521309;5,11
+"3";"Algeria";"DZA";24,00945;0,61
+"4";"Andorra";"AND";6,091194;11,05
+"5";"Angola";"AGO";23,264063;6,17
+"6";"Antigua and Barbuda";"ATG";26,305876;8,51
+"7";"Argentina";"ARG";15,001052;8,04
+"8";"Armenia";"ARM";7,3121476;4,98
+"9";"Australia";"AUS";23,126204;10,09
+"10";"Austria";"AUT";8,03531;11,97
+"11";"Azerbaijan";"AZE";12,930016;1,97
+"12";"Bahamas";"BHS";26,142889;4,39
+"13";"Bahrain";"BHR";26,59038;1,58
+"14";"Bangladesh";"BGD";25,765463;0,005
+"15";"Belarus";"BLR";8,870999;10,9
+"16";"Belgium";"BEL";10,921481;10,28
+"17";"Belize";"BLZ";26,455145;5,71
+"18";"Benin";"BEN";27,93795;8,35
+"19";"Bhutan";"BTN";8,480232;0,2
+"20";"Bolivia";"BOL";20,839842;4,1
+"21";"Bosnia and Herzegovina";"BIH";11,368596;6,38
+"22";"Botswana";"BWA";23,395973;8,16
+"23";"Brazil";"BRA";25,529654;7,67
+"24";"Brunei";"BRN";26,99488;0,41
+"25";"Bulgaria";"BGR";12,638387;11,92
+"26";"Burkina Faso";"BFA";29,033026;9,81
+"27";"Burundi";"BDI";21,089554;4,13
+"28";"Cambodia";"KHM";28,101265;8,48
+"29";"Cameroon";"CMR";25,050589;10,1
+"30";"Canada";"CAN";-3,619446;9,9
+"31";"Cape Verde";"CPV";22,534859;6,27
+"32";"Central African Republic";"CAF";26,5403;1,99
+"33";"Chad";"TCD";27,644114;3,73
+"34";"Chile";"CHL";9,559365;6,75
+"35";"China";"CHN";7,570721;5,73
+"36";"Colombia";"COL";24,390434;4,92
+"37";"Comoros";"COM";25,53382;0,25
+"38";"Congo";"COG";25,348177;6,4
+"39";"Costa Rica";"CRI";23,44528;3,45
+"40";"Cote d'Ivoire";"CIV";26,744675;2,8
+"41";"Croatia";"HRV";13,174048;8,54
+"42";"Cuba";"CUB";26,083471;6,01
+"43";"Cyprus";"CYP";20,344654;8,05
+"44";"Czechia";"CZE";9,837802;13,29
+"45";"Democratic Republic of Congo";"COD";24,71073;2,12
+"46";"Denmark";"DNK";9,686946;9,4
+"47";"Djibouti";"DJI";28,720991;0,4
+"48";"Dominican Republic";"DOM";24,745375;6,76
+"49";"East Timor";"TLS";24,642237;0,4
+"50";"Ecuador";"ECU";21,149626;3,26
+"51";"Egypt";"EGY";23,365585;0,15
+"52";"El Salvador";"SLV";26,874716;3,28
+"53";"Equatorial Guinea";"GNQ";24,482542;6,94
+"54";"Eritrea";"ERI";27,219244;1,23
+"55";"Estonia";"EST";7,404331;11,26
+"56";"Eswatini";"SWZ";20,351831;8,09
+"57";"Ethiopia";"ETH";23,83742;3,36
+"58";"Fiji";"FJI";24,735924;3,45
+"59";"Finland";"FIN";3,117861;9,16
+"60";"France";"FRA";14,081471;11,3
+"61";"Gabon";"GAB";25,200462;7,33
+"62";"Gambia";"GMB";27,778656;1,11
+"63";"Georgia";"GEO";9,148965;14,33
+"64";"Germany";"DEU";10,416997;12,22
+"65";"Ghana";"GHA";28,01622;4,55
+"66";"Greece";"GRC";15,710937;7,12
+"68";"Guatemala";"GTM";23,939682;1,63
+"69";"Guinea";"GIN";26,427383;0,47
+"70";"Guinea-Bissau";"GNB";27,780289;4,14
+"71";"Guyana";"GUY";25,59498;5,35
+"72";"Haiti";"HTI";25,519121;3,45
+"73";"Honduras";"HND";24,29406;3,17
+"74";"Hungary";"HUN";12,5901985;10,6
+"75";"Iceland";"ISL";2,0690942;8,07
+"76";"India";"IND";24,450323;4,92
+"77";"Indonesia";"IDN";25,568398;0,11
+"78";"Iran";"IRN";18,738478;0,7
+"79";"Iraq";"IRQ";23,443193;0,24
+"80";"Ireland";"IRL";10,076142;11,7
+"81";"Israel";"ISR";20,80841;3,01
+"82";"Italy";"ITA";13,72412;7,97
+"83";"Jamaica";"JAM";26,503174;3,6
+"84";"Japan";"JPN";12,661652;6,68
+"85";"Jordan";"JOR";19,876366;0,31
+"86";"Kazakhstan";"KAZ";7,709892;4,52
+"87";"Kenya";"KEN";25,87288;2,87
+"88";"Kiribati";"KIR";27,02609;0,76
+"90";"Kuwait";"KWT";26,839302;0
+"91";"Kyrgyzstan";"KGZ";0,9785803;4,95
+"92";"Laos";"LAO";24,183836;11,52
+"93";"Latvia";"LVA";8,041894;13,09
+"94";"Lebanon";"LBN";16,12708;1,48
+"95";"Lesotho";"LSO";13,003791;4,54
+"96";"Liberia";"LBR";25,711706;3,64
+"97";"Libya";"LBY";22,648;0,008
+"98";"Lithuania";"LTU";8,791871;11,79
+"99";"Luxembourg";"LUX";10,258414;11,53
+"100";"Madagascar";"MDG";23,261576;1,02
+"101";"Malawi";"MWI";22,479498;3,24
+"102";"Malaysia";"MYS";26,154617;0,76
+"103";"Mali";"MLI";28,777086;4,35
+"104";"Mauritania";"MRT";27,314001;0
+"105";"Mauritius";"MUS";24,16186;7,52
+"106";"Mexico";"MEX";21,33991;5,72
+"107";"Moldova";"MDA";11,872148;11,36
+"108";"Mongolia";"MNG";1,9854788;7,93
+"109";"Montenegro";"MNE";10,706067;10,34
+"110";"Morocco";"MAR";18,900454;0,49
+"111";"Mozambique";"MOZ";24,420134;2,03
+"112";"Myanmar";"MMR";24,130178;2,12
+"113";"Namibia";"NAM";23,205215;5,93
+"114";"Nepal";"NPL";13,121549;1,36
+"115";"Netherlands";"NLD";11,176575;9,3
+"117";"New Zealand";"NZL";11,082637;9,89
+"118";"Nicaragua";"NIC";25,916498;4,17
+"119";"Niger";"NER";27,921547;0,13
+"120";"Nigeria";"NGA";27,254944;4,21
+"121";"North Korea";"PRK";8,167861;4,29
+"122";"North Macedonia";"MKD";12,233415;4,62
+"123";"Norway";"NOR";1,0335246;6,8
+"124";"Oman";"OMN";28,236221;0,88
+"125";"Pakistan";"PAK";20,378199;0,1
+"127";"Panama";"PAN";25,385956;6,6
+"128";"Papua New Guinea";"PNG";23,581266;1,7
+"129";"Paraguay";"PRY";24,503633;5,6
+"130";"Peru";"PER";19,032663;7,45
+"131";"Philippines";"PHL";26,366499;6,18
+"132";"Poland";"POL";10,291849;11,63
+"133";"Portugal";"PRT";15,456771;10,45
+"135";"Qatar";"QAT";28,158468;1,15
+"136";"Romania";"ROU";11,340209;16,99
+"137";"Russia";"RUS";-2,574199;10,42
+"138";"Rwanda";"RWA";20,006605;1,88
+"139";"Saint Vincent and the Grenadines";"VCT";26,57801;7,16
+"140";"Samoa";"WSM";25,735329;2,39
+"141";"Sao Tome and Principe";"STP";26,090136;5,01
+"142";"Saudi Arabia";"SAU";26,737825;0
+"143";"Senegal";"SEN";28,942606;0,41
+"144";"Serbia";"SRB";12,290044;7,89
+"145";"Seychelles";"SYC";26,825981;11,99
+"146";"Sierra Leone";"SLE";26,37065;0,26
+"147";"Slovakia";"SVK";9,987138;10,48
+"148";"Slovenia";"SVN";11,284724;10,98
+"149";"Solomon Islands";"SLB";26,415764;1,62
+"150";"Somalia";"SOM";26,943993;0
+"151";"South Africa";"ZAF";19,134748;8,77
+"152";"South Korea";"KOR";13,095947;8,19
+"154";"Spain";"ESP";14,583365;10,91
+"155";"Sri Lanka";"LKA";26,895897;2,83
+"156";"Sudan";"SDN";27,52179;0,005
+"157";"Suriname";"SUR";26,228537;6,63
+"158";"Sweden";"SWE";4,0332885;9,3
+"159";"Switzerland";"CHE";6,3426995;10,4
+"160";"Syria";"SYR";19,633001;0,2
+"161";"Tajikistan";"TJK";0,67754674;0,87
+"162";"Tanzania";"TZA";23,304552;10,36
+"163";"Thailand";"THA";27,099648;7,85
+"164";"Togo";"TGO";27,5202;1,42
+"165";"Trinidad and Tobago";"TTO";26,44484;6,06
+"166";"Tunisia";"TUN";20,404167;2,01
+"167";"Turkey";"TUR";12,602868;1,82
+"168";"Turkmenistan";"TKM";17,403673;2,93
+"169";"Uganda";"UGA";23,512293;12,21
+"170";"Ukraine";"UKR";10,656096;8,7
+"171";"United Arab Emirates";"ARE";28,69501;2,37
+"172";"United Kingdom";"GBR";9,685108;10,82
+"173";"United States";"USA";9,849836;9,57
+"174";"Uruguay";"URY";17,705374;5,45
+"175";"Uzbekistan";"UZB";14,4532585;2,6
+"176";"Vanuatu";"VUT";25,035719;1,87
+"177";"Venezuela";"VEN";25,807573;3,02
+"178";"Vietnam";"VNM";24,815218;9,34
+"179";"Yemen";"YEM";26,2724;0,028
+"180";"Zambia";"ZMB";22,6176;3,85
+"181";"Zimbabwe";"ZWE";22,434418;3,63
